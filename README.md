@@ -109,9 +109,9 @@ Yuri Yang - [@itsyurika](https://github.com/itsyurika)
 
 Ben Finlay - [@Ben-Finlay](https://github.com/Ben-Finlay)
 
-Jordan Ciurcovich - [@symphony](https://github.com/symphony)
-
 - Forked from: [@itsyurika/plan-ahead](https://github.com/itsyurika/plan-ahead)
+
+Jordan Ciurcovich - [@symphony](https://github.com/symphony)
 
 Lighthouse Labs - [@lighthouse-labs](https://github.com/lighthouse-labs)
 
