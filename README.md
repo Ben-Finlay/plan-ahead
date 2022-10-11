@@ -5,7 +5,7 @@ Utilizes a back-end Server API built with Express Node.js and PostgreSQL, and a 
 
 ## Demo
 
-A live demo can be found on Heroku - [Plan Ahead Live Demo](https://plan-ahead.herokuapp.com)
+A live demo can be found on Heroku - [Plan Ahead Live Demo](https://plan-ahead.fly.dev/)
 
 ### Homepage 
 
